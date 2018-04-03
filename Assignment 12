@@ -1,0 +1,18 @@
+# Week-12
+Glanel Houenouvi
+
+CISCI 2461-70 
+
+                                                                                    How does the Internet work
+                       Internet has five requirement to work withwhich are to work which are the name and locations, the Domain Name System, packets and routers,TCP and
+  IP, and HTTP of the machine. To find the name and location of the machine, the first thing has to do is to establish a network 
+  connection of browser. For that to happen, you have to know the network location of the host, which is the IP address. Your browser 
+  queries aprogram called a name server that live on your machine. The Dain Name System is the program and databases that cooperates to 
+  translate hostname to IP addresses. A domain is collection of machines that share a common name suffix. They defined by an authoritative 
+  name server. They only have to know the location of the name server to work. Inside of a packet there are three important things which 
+  are source address, the destination address, and service number or port number. With these a browser can send a command to the Web 
+  server. The router is the one will ship the packet down the wire until it get to the machine. Internet uses two protocols for multiple-
+  packet transmissions which are IP and TCP.  IP(Internet Protocol)  is in lower level that responsible for exchanging information over a 
+  network. TCP(Transmission Control Protocol) is in Upper level that support reliability. Both of TCP/IP contains a checksum to enable 
+  detection of date corrupted by bad link. The final step is the application protocol that runs on top of TCP/IP using to pass strings of  
+bytes back and forth known as HTTP. Bound everything in one Internet will work . 
